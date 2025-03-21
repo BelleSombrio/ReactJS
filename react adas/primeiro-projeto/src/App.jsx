@@ -1,37 +1,38 @@
 import { useState } from 'react'
-
 import './App.css'
+import Musica from './components/musica/musica'
+import axios from 'axios'
 
 function App() {
-let animal = {
-  nome: "Silvino",
-  especie: "Marreco",
-  Cor: "branco",
-  imagem: "https://aventurasnahistoria.com.br/media/uploads/curiosidades/leao.jpg "
 
-}
+  const [musicas, setMusica] = useState([])
 
-let animal2 = {
-  nome: "Paulinho",
-  especie: "Pato",
-  Cor: "Preto",
-  imagem: "https://i1.sndcdn.com/artworks-i9mDLzfHHOx9F8mQ-D8MRkg-t500x500.jpg"
+  const pegarUmaMusica = () => {
+    axios.get("http://localhost:3000/Musica/").then(response => {
+      setMusica(response.data)
 
-}
+      musicas.forEach(Musica => console.log(Musica))
+    })
+
+    .catch(error => {
+      console.error("Erro ao bujscar as músicas", error)
+    })
+  }
 
   return (
     <>
-  <h1>Nome: {animal.nome}</h1>
-  <h2>Espécie: {animal.especie}</h2>
-  <h2>Cor: {animal.Cor}</h2>
-  <img src={animal.imagem} alt="" height={"300px"} width={"400px"}/>
-<br></br>
-
-<h1>Nome: {animal2.nome}</h1>
-<h2>Espécie: {animal2.especie}</h2>
-<h2>Cor: {animal2.Cor}</h2>
-<img src={animal2.imagem} height={"300px"} width={"400px"}></img>
-
+     <button onClick={pegarUmaMusica}>Pegar uma música</button>
+      
+      {/* Renderizando as músicas */}
+      {musicas.length > 0 ? (
+        <div>
+          {musicas.map((musica, index) => (
+            <Musica key={index} dados={musica} />
+          ))}
+        </div>
+      ) : (
+        <p>Não há músicas para exibir</p> // Mensagem caso não haja músicas
+      )}
     </>
   )
 }

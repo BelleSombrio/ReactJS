@@ -1,0 +1,125 @@
+{
+    "Musica": [
+        {
+          "id": "1",
+          "titulo": "Shape of You",
+          "artista": "Ed Sheeran",
+          "visualizacoes": 50
+        },
+        {
+          "id": "2",
+          "titulo": "Blinding Lights",
+          "artista": "The Weeknd",
+          "visualizacoes": 45
+        },
+        {
+          "id": "3",
+          "titulo": "Levitating",
+          "artista": "Dua Lipa",
+          "visualizacoes": 35
+        },
+        {
+          "id": "4",
+          "titulo": "Bad Bunny",
+          "artista": "YHLQMDLG",
+          "visualizacoes": 40
+        },
+        {
+          "id": "5",
+          "titulo": "Happier",
+          "artista": "Ed Sheeran",
+          "visualizacoes": 32
+        },
+        {
+          "id": "6",
+          "titulo": "Peaches",
+          "artista": "Justin Bieber",
+          "visualizacoes": 25
+        },
+        {
+          "id": "7",
+          "titulo": "Watermelon Sugar",
+          "artista": "Harry Styles",
+          "visualizacoes": 20
+        },
+        {
+          "id": "8",
+          "titulo": "Save Your Tears",
+          "artista": "The Weeknd",
+          "visualizacoes": 32
+        },
+        {
+          "id": "9",
+          "titulo": "Stay",
+          "artista": "Kid LAROI, Justin Bieber",
+          "visualizacoes": 15
+        },
+        {
+          "id": "10",
+          "titulo": "Montero (Call Me By Your Name)",
+          "artista": "Lil Nas X",
+          "visualizacoes": 28
+        },
+        {
+          "id": "11",
+          "titulo": "Don't Start Now",
+          "artista": "Dua Lipa",
+          "visualizacoes": 37
+        },
+        {
+          "id": "12",
+          "titulo": "Good 4 U",
+          "artista": "Olivia Rodrigo",
+          "visualizacoes": 21
+        },
+        {
+          "id": "13",
+          "titulo": "Kiss Me More",
+          "artista": "Doja Cat",
+          "visualizacoes": 28
+        },
+        {
+          "id": "14",
+          "titulo": "Blinding Lights",
+          "artista": "The Weeknd",
+          "visualizacoes": 45
+        },
+        {
+          "id": "15",
+          "titulo": "Rockstar",
+          "artista": "Post Malone",
+          "visualizacoes": 31
+        },
+        {
+          "id": "16",
+          "titulo": "Astronaut In The Ocean",
+          "artista": "Masked Wolf",
+          "visualizacoes": 17
+        },
+        {
+          "id": "17",
+          "titulo": "Old Town Road",
+          "artista": "Lil Nas X",
+          "visualizacoes": 60
+        },
+        {
+          "id": "18",
+          "titulo": "Faded",
+          "artista": "Alan Walker",
+          "visualizacoes": 35
+        },
+        {
+          "id": "19",
+          "titulo": "Perfect",
+          "artista": "Ed Sheeran",
+          "visualizacoes": 50
+        },
+        {
+          "id": "20",
+          "titulo": "Shallow",
+          "artista": "Lady Gaga, Bradley Cooper",
+          "visualizacoes": 38
+        }
+      ]
+      
+}
