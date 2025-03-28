@@ -1,0 +1,124 @@
+{
+  "flores": [
+    {
+      "id": "1",
+      "nome": "Rosa",
+      "cor": "Vermelha",
+      "preco": 15.00,
+      "descricao": "Rosa clássica, ideal para ocasiões românticas.",
+      "imagem": "https://example.com/imagens/rosa_vermelha.jpg"
+    },
+    {
+      "id": "2",
+      "nome": "Margarida",
+      "cor": "Branca",
+      "preco": 10.00,
+      "descricao": "Flor delicada, excelente para buquês de casamento.",
+      "imagem": "https://example.com/imagens/margarida_branca.jpg"
+    },
+    {
+      "id": "3",
+      "nome": "Tulipa",
+      "cor": "Amarela",
+      "preco": 20.00,
+      "descricao": "Flor elegante, frequentemente usada em arranjos de luxo.",
+      "imagem": "https://example.com/imagens/tulipa_amarela.jpg"
+    },
+    {
+      "id": "4",
+      "nome": "Orquídea",
+      "cor": "Roxa",
+      "preco": 30.00,
+      "descricao": "Orquídea rara, ideal para ambientes sofisticados.",
+      "imagem": "https://example.com/imagens/orquidea_roxa.jpg"
+    },
+    {
+      "id": "5",
+      "nome": "Girassol",
+      "cor": "Amarelo",
+      "preco": 12.00,
+      "descricao": "Flor vibrante, popular em arranjos para eventos ao ar livre.",
+      "imagem": "https://example.com/imagens/girassol_amarelo.jpg"
+    },
+    {
+      "id": "6",
+      "nome": "Lírio",
+      "cor": "Branco",
+      "preco": 18.00,
+      "descricao": "Flor elegante e perfumada, excelente para arranjos formais.",
+      "imagem": "https://example.com/imagens/lirio_branco.jpg"
+    },
+    {
+      "id": "7",
+      "nome": "Camélia",
+      "cor": "Rosa",
+      "preco": 22.00,
+      "descricao": "Flor delicada, simboliza beleza e perfeição.",
+      "imagem": "https://example.com/imagens/camelia_rosa.jpg"
+    },
+    {
+      "id": "8",
+      "nome": "Jasmim",
+      "cor": "Branco",
+      "preco": 8.00,
+      "descricao": "Flor doce e perfumada, muito utilizada em decorações ao ar livre.",
+      "imagem": "https://example.com/imagens/jasmim_branco.jpg"
+    },
+    {
+      "id": "9",
+      "nome": "Violeta",
+      "cor": "Roxa",
+      "preco": 9.00,
+      "descricao": "Flor pequena, ideal para vasos decorativos.",
+      "imagem": "https://example.com/imagens/violeta_roxa.jpg"
+    },
+    {
+      "id": "10",
+      "nome": "Lavanda",
+      "cor": "Roxa",
+      "preco": 14.00,
+      "descricao": "Flor aromática, usada tanto para decoração quanto para aromaterapia.",
+      "imagem": "https://example.com/imagens/lavanda_roxa.jpg"
+    },
+    {
+      "id": "11",
+      "nome": "Cravo",
+      "cor": "Vermelho",
+      "preco": 13.00,
+      "descricao": "Flor resistente, popular em arranjos florais.",
+      "imagem": "https://example.com/imagens/cravo_vermelho.jpg"
+    },
+    {
+      "id": "12",
+      "nome": "Crisântemo",
+      "cor": "Amarelo",
+      "preco": 11.00,
+      "descricao": "Flor que simboliza alegria, ideal para dar boas-vindas.",
+      "imagem": "https://example.com/imagens/crisantemo_amarelo.jpg"
+    },
+    {
+      "id": "13",
+      "nome": "Peônia",
+      "cor": "Rosa Claro",
+      "preco": 25.00,
+      "descricao": "Flor exuberante, conhecida por sua forma cheia e perfume suave.",
+      "imagem": "https://example.com/imagens/peonia_rosa_claro.jpg"
+    },
+    {
+      "id": "14",
+      "nome": "Dália",
+      "cor": "Laranja",
+      "preco": 17.00,
+      "descricao": "Flor que simboliza força e elegância.",
+      "imagem": "https://example.com/imagens/dalia_laranja.jpg"
+    },
+    {
+      "id": "15",
+      "nome": "Gérbera",
+      "cor": "Coral",
+      "preco": 16.00,
+      "descricao": "Flor alegre e colorida, muito utilizada em arranjos para festas.",
+      "imagem": "https://example.com/imagens/gerbera_coral.jpg"
+    }
+  ]
+}
