@@ -1,0 +1,124 @@
+{
+  "flores": [
+    {
+      "id": "1",
+      "nome": "Rosa",
+      "cor": "Vermelha",
+      "preco": 15.00,
+      "descricao": "Rosa clássica, ideal para ocasiões românticas.",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/1336859/buque_com_15_botoes_de_rosas_99_1_49bfc915515ec6c0a99d7c5ef8403c16.png"
+    },
+    {
+      "id": "2",
+      "nome": "Margarida",
+      "cor": "Branca",
+      "preco": 10.00,
+      "descricao": "Flor delicada, excelente para buquês de casamento.",
+      "imagem": "https://stack.flowermarket.com.br/floresvip/images/produto/400_1738.jpg"
+    },
+    {
+      "id": "3",
+      "nome": "Tulipa",
+      "cor": "Amarela",
+      "preco": 20.00,
+      "descricao": "Flor elegante, frequentemente usada em arranjos de luxo.",
+      "imagem": "https://cdn0.casamentos.com.br/article-vendor/8126/original/1280/jpg/bouquet-primavera-tulipas_13_148126_v1.jpeg"
+    },
+    {
+      "id": "4",
+      "nome": "Orquídea",
+      "cor": "Roxa",
+      "preco": 30.00,
+      "descricao": "Orquídea rara, ideal para ambientes sofisticados.",
+      "imagem": "https://cdn.awsli.com.br/800x800/1558/1558918/produto/242365858/buque-orquideas-731d157f-bowchn3sur.jpg"
+    },
+    {
+      "id": "5",
+      "nome": "Girassol",
+      "cor": "Amarelo",
+      "preco": 12.00,
+      "descricao": "Flor vibrante, popular em arranjos para eventos ao ar livre.",
+      "imagem": "https://cdn.awsli.com.br/600x450/1050/1050815/produto/117238832/eb80176548.jpg"
+    },
+    {
+      "id": "6",
+      "nome": "Lírio",
+      "cor": "Branco",
+      "preco": 18.00,
+      "descricao": "Flor elegante e perfumada, excelente para arranjos formais.",
+      "imagem": "https://realfloresatelie.com.br/wp-content/uploads/2023/09/buque-mix-de-lirios.jpg"
+    },
+    {
+      "id": "7",
+      "nome": "Camélia",
+      "cor": "Rosa",
+      "preco": 22.00,
+      "descricao": "Flor delicada, simboliza beleza e perfeição.",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/833634/buque_de_camelia_rosa_de_39cm_148535_1_ec979d7f44eae28631f6efdbccad8e55.jpg"
+    },
+    {
+      "id": "8",
+      "nome": "Jasmim",
+      "cor": "Branco",
+      "preco": 8.00,
+      "descricao": "Flor doce e perfumada, muito utilizada em decorações ao ar livre.",
+      "imagem": "https://img.freepik.com/fotos-premium/buque-de-flores-de-jasmim-brancas-isoladas-no-fundo-branco_743855-16986.jpg"
+    },
+    {
+      "id": "9",
+      "nome": "Violeta",
+      "cor": "Roxa",
+      "preco": 9.00,
+      "descricao": "Flor pequena, ideal para vasos decorativos.",
+      "imagem": "https://img.freepik.com/fotos-premium/mulher-segurando-um-enorme-buque-de-flores-de-cor-violeta-macia_130488-154.jpg"
+    },
+    {
+      "id": "10",
+      "nome": "Lavanda",
+      "cor": "Roxa",
+      "preco": 14.00,
+      "descricao": "Flor aromática, usada tanto para decoração quanto para aromaterapia.",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/833634/buque_de_lavanda_de_39cm_148517_1_6dd8cf518300607e8d6d9698daca1381.jpg"
+    },
+    {
+      "id": "11",
+      "nome": "Cravo",
+      "cor": "Vermelho",
+      "preco": 13.00,
+      "descricao": "Flor resistente, popular em arranjos florais.",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/833634/buque_cravo_luxo_48cm_vermelho_150429_1_2a620ae9738356f0ccf08a7f818a427c.jpeg"
+    },
+    {
+      "id": "12",
+      "nome": "Crisântemo",
+      "cor": "Amarelo",
+      "preco": 11.00,
+      "descricao": "Flor que simboliza alegria, ideal para dar boas-vindas.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVSJ4i6DGux_xdl2EOpPVl2UDm2vb-tRaIwQ&s"
+    },
+    {
+      "id": "13",
+      "nome": "Peônia",
+      "cor": "Rosa Claro",
+      "preco": 25.00,
+      "descricao": "Flor exuberante, conhecida por sua forma cheia e perfume suave.",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/833634/buque_de_peonia_33x15x6cm_rosa_149495_1_9e6e6fc7486517d638b27ee5f64d5b4c.jpeg"
+    },
+    {
+      "id": "14",
+      "nome": "Dália",
+      "cor": "Laranja",
+      "preco": 17.00,
+      "descricao": "Flor que simboliza força e elegância.",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/833634/buque_de_dalia_35x17x12cm_vinho_149471_1_f51bb62b892e402ad0f3cf8477604bc1.jpeg"
+    },
+    {
+      "id": "15",
+      "nome": "Gérbera",
+      "cor": "Coral",
+      "preco": 16.00,
+      "descricao": "Flor alegre e colorida, muito utilizada em arranjos para festas.",
+      "imagem": "https://www.internacionalflores.com.br/wp-content/uploads/2020/09/BUQU%C3%8A-DE-G%C3%89RBERA-2-scaled.jpg"
+    }
+  ]
+}

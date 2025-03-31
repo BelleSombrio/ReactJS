@@ -1,0 +1,30 @@
+header{
+  background: rgb(255, 147, 241);
+  background: linear-gradient(0deg, rgb(255, 147, 241) 0%, rgb(255, 225, 251) 100%);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 30px 0px 20px;
+}
+header .menu{
+  width: 40%;
+}
+header .menu ul{
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  list-style: none;
+}
+header .menu ul li a{
+  text-decoration: none;
+  color: black;
+}
+header .menu ul li{
+  transition: 0.2s;
+  font-size: 20px;
+  letter-spacing: 3px;
+  
+}
+header .menu ul li:hover{
+  transform: scale(1.1);
+}
