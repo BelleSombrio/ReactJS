@@ -1,0 +1,47 @@
+{
+    "food": [
+      {
+        "id": "1",
+        "nome": "Burrito Holográfico",
+        "ingredientes": ["tortilha de proteína sintética", "alga bioluminiscente", "salsa de nanotecnologia", "guacamole de células vegetais", "tofu de plasma"],
+        "preço": 29.99
+      },
+      {
+        "id": "2",
+        "nome": "Sopa Quântica",
+        "ingredientes": ["caldo de partículas subatômicas", "legumes cultivados em ambiente zero-gravidade", "proteína vegetal de laboratório", "esferas de sabor molecular"],
+        "preço": 18.50
+      },
+      {
+        "id": "3",
+        "nome": "Pizza Híbrida 3D",
+        "ingredientes": ["massa impressa em 3D", "tomate modificado geneticamente", "queijo biônico", "cogumelos cultivados em laboratório", "folhas de ervas hiper-rápidas"],
+        "preço": 45.00
+      },
+      {
+        "id": "4",
+        "nome": "Ramen Nebuloso",
+        "ingredientes": ["macarrão extra-fino", "caldo de infusão gravitacional", "ovo de clonagem", "tofu de carbono", "broto de planta biohíbrida"],
+        "preço": 22.75
+      },
+      {
+        "id": "5",
+        "nome": "Hamburguer Cibernético",
+        "ingredientes": ["pão de fibra sintética", "carne cultivada em laboratório", "alface de fotossíntese artificial", "molho de bioimpressão", "queijo de células vivas"],
+        "preço": 34.99
+      },
+      {
+        "id": "6",
+        "nome": "Sorvete Antigravitacional",
+        "ingredientes": ["creme de leite sintético", "flocos de chocolate quântico", "frutas criogênicas", "pó de flor bioluminescente"],
+        "preço": 15.90
+      },
+      {
+        "id": "7",
+        "nome": "Tartar de Algas Cibernéticas",
+        "ingredientes": ["algas modificadas geneticamente", "vinagre de neutrinos", "caviar de moléculas suspensas", "sorbitol de fibra sintética"],
+        "preço": 26.50
+      }
+    ]
+  }
+  
