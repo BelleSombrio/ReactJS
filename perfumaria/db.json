@@ -1,0 +1,258 @@
+{
+    "perfumes": [
+      {
+        "id": "1",
+        "nome": "Brilho do Eclipse",
+       "tipo": "noite",
+        "descricao": "Um perfume que mistura a escuridão misteriosa com o brilho da luz dourada.",
+        "notasAromaticas": ["Âmbar, Orquídea Negra, Baunilha, Sândalo"],
+        "imagem": "https://assets.grok.com/users/6ac1187c-c9dd-4291-8cc5-f487824527e7/generated/AAhsjaFMWTNB8sK8/image.jpg",
+        "preco": 389.90
+      },
+      {
+        "id": "2",
+        "nome": "Orvalho Imperial",
+        "tipo": "dia",
+        "descricao": "Suave como a brisa da manhã em um jardim real.",
+        "notasAromaticas": ["Rosa Damascena", "Pera", "Patchouli", "Almíscar Branco"],
+        "imagem": "https://assets.grok.com/users/6ac1187c-c9dd-4291-8cc5-f487824527e7/generated/mBE3vhu3LjHD9n19/image.jpg",
+        "preco": 419.00
+      },
+      {
+        "id": "3",
+        "nome": "Veludo Sombrio",
+        "tipo": "noite",
+        "descricao": "Envolvente como um manto de veludo sob a lua cheia.",
+        "notasAromaticas": ["Violeta", "Incenso", "Cassis", "Madeira de Ébano"],
+        "imagem": "https://assets.grok.com/users/6ac1187c-c9dd-4291-8cc5-f487824527e7/generated/4dr4hQivsTEcrWOp/image.jpg",
+        "preco": 459.90
+      },
+      {
+        "id": "4",
+        "nome": "Luz Celestial",
+        "tipo": "dia",
+        "descricao": "Uma fragrância iluminada como o primeiro raio de sol.",
+        "notasAromaticas": ["Flor de Laranjeira", "Neroli", "Bergamota", "Almíscar"],
+        "imagem": "https://assets.grok.com/users/6ac1187c-c9dd-4291-8cc5-f487824527e7/generated/Eak4zqwRPXAMcFaw/image.jpg",
+        "preco": 372.50
+      },
+      {
+        "id": "5",
+        "nome": "Safira Selvagem",
+        "tipo": "noite",
+        "descricao": "Intensa e exótica como uma joia escondida na selva.",
+        "notasAromaticas": ["Cedro", "Lavanda", "Pimenta Rosa", "Vetiver"],
+        "imagem": "https://assets.grok.com/users/6ac1187c-c9dd-4291-8cc5-f487824527e7/generated/PaAQOhOsfTjCRouH/image.jpg",
+        "preco": 448.75
+      },
+      {
+        "id": "6",
+        "nome": "Castelo da Bruma",
+        "tipo": "dia",
+        "descricao": "Um aroma nobre que emerge de entre as névoas da manhã.",
+        "notasAromaticas": ["Jasmim", "Íris", "Madeira Branca", "Almíscar"],
+        "imagem": "https://assets.grok.com/users/6ac1187c-c9dd-4291-8cc5-f487824527e7/generated/c1ysREnFvThCMDqU/image.jpg",
+        "preco": 489.00
+      },
+      {
+        "id": "7",
+        "nome": "Âmbar de Veludo",
+        "tipo": "noite",
+        "descricao": "Quente e macio como um abraço noturno.",
+        "notasAromaticas": ["Âmbar", "Cacau", "Tabaco", "Fava Tonka"],
+        "imagem": "https://assets.grok.com/users/6ac1187c-c9dd-4291-8cc5-f487824527e7/generated/RyqlXbIsen0RtJno/image.jpg",
+        "preco": 399.99
+      },
+      {
+        "id": "8",
+        "nome": "Embriaguez Real",
+        "tipo": "dia",
+        "descricao": "Luxo absoluto em forma de perfume.",
+        "notasAromaticas": ["Rum", "Canela", "Oud", "Benjoim"],
+        "imagem": "https://assets.grok.com/users/6ac1187c-c9dd-4291-8cc5-f487824527e7/generated/WrzLtFWTWkdbZ3fE/image.jpg",
+        "preco": 539.00
+      },
+      {
+        "id": "9",
+        "nome": "Miragem Eterna",
+        "tipo": "dia",
+        "descricao": "Um aroma que aparece como um sonho no deserto.",
+        "notasAromaticas": ["Tâmara", "Rosa", "Mirra", "Baunilha"],
+        "imagem": "https://assets.grok.com/users/6ac1187c-c9dd-4291-8cc5-f487824527e7/generated/6ytUSMPv3k5D13KI/image.jpg",
+        "preco": 412.40
+      },
+      {
+        "id": "10",
+        "nome": "Ouro do Tempo",
+        "tipo": "dia",
+        "descricao": "Elegância clássica e atemporal.",
+        "notasAromaticas": ["Íris", "Flor de Lótus", "Almíscar", "Olibano"],
+        "imagem": "https://assets.grok.com/users/6ac1187c-c9dd-4291-8cc5-f487824527e7/generated/ioMaZrqDOkS3FDKb/image.jpg",
+        "preco": 470.00
+      },
+      {
+        "id": "11",
+        "nome": "Noite Azul",
+        "tipo": "noite",
+        "descricao": "A essência profunda de uma noite estrelada.",
+        "notasAromaticas": ["Mirtilo", "Patchouli", "Âmbar", "Cedro"],
+        "imagem": "https://assets.grok.com/users/6ac1187c-c9dd-4291-8cc5-f487824527e7/generated/kwFoiz6uWf8Jxti3/image.jpg",
+        "preco": 385.60
+      },
+      {
+        "id": "12",
+        "nome": "Elixir Encantado",
+        "tipo": "noite",
+        "descricao": "Como um feitiço doce e envolvente.",
+        "notasAromaticas": ["Lichia", "Baunilha", "Caramelo", "Benjoim"],
+        "imagem": "https://assets.grok.com/anon-users/dc2b630c-2eb4-4c57-aa49-3a479b728e32/generated/V54XxEf2xs87UzJe/image.jpg",
+        "preco": 379.90
+      },
+      {
+        "id": "16",
+        "nome": "Jardim da Meia-Noite",
+        "tipo": "noite",
+        "descricao": "Flores que desabrocham sob o véu da noite.",
+        "notasAromaticas": ["Gardênia", "Tuberosa", "Ylang-Ylang", "Almíscar"],
+        "imagem": "https://fimgs.net/himg/o.BFtlV7RlNiG.png",
+        "preco": 433.30
+      },
+      {
+        "id": "13",
+        "nome": "Aurora de Esmeralda",
+        "tipo": "noite",
+        "descricao": "O frescor do verde ao nascer do dia.",
+        "notasAromaticas": ["Chá Verde", "Limão", "Gengibre", "Bambu"],
+        "imagem": "https://example.com/aurora.jpg",
+        "preco": 318.00
+      },
+      {
+        "id": "14",
+        "nome": "Céu de Mármore",
+        "tipo": "noite",
+        "descricao": "Um perfume etéreo e elegante como esculturas no ar.",
+        "notasAromaticas": ["Peônia", "Íris", "Musk Branco", "Cedro"],
+        "imagem": "https://example.com/ceu.jpg",
+        "preco": 359.90
+      },
+      {
+        "id": "15",
+        "nome": "Rainha das Sombras",
+        "tipo": "noite",
+        "descricao": "Misteriosa e poderosa, como uma soberana da noite.",
+        "notasAromaticas": ["Absinto", "Rosa Negra", "Pimenta", "Incenso"],
+        "imagem": "https://example.com/rainha.jpg",
+        "preco": 498.00
+      },
+      
+      {
+        "id": "17",
+        "nome": "Orquídea de Prata",
+        "tipo": "noite",
+        "descricao": "Refinada e luminosa como prata líquida.",
+        "notasAromaticas": ["Orquídea", "Lírio", "Cítricos", "Musk"],
+        "imagem": "https://example.com/orquidea.jpg",
+        "preco": 410.00
+      },
+      {
+        "id": "18",
+        "nome": "Flor de Obsidiana",
+        "tipo": "noite",
+        "descricao": "Força e delicadeza em perfeita harmonia.",
+        "notasAromaticas": ["Tuberosa", "Madeira Escura", "Mirra", "Almíscar"],
+        "imagem": "https://example.com/obsidiana.jpg",
+        "preco": 446.20
+      },
+      {
+        "id": "19",
+        "nome": "Cristal dos Sonhos",
+        "tipo": "noite",
+        "descricao": "Delicado como a transparência dos sonhos.",
+        "notasAromaticas": ["Mandarina", "Hibisco", "Peônia", "Âmbar"],
+        "imagem": "https://example.com/cristal.jpg",
+        "preco": 370.00
+      },
+      {
+        "id": "20",
+        "nome": "Mineral Nobre",
+        "tipo": "noite",
+        "descricao": "A natureza sólida e pura das pedras preciosas.",
+        "notasAromaticas": ["Vetiver", "Sálvia", "Musk Mineral", "Cedro"],
+        "imagem": "https://example.com/mineral.jpg",
+        "preco": 455.00
+      },
+      {
+        "id": "21",
+        "nome": "Chama Secreta",
+        "tipo": "noite",
+        "descricao": "O calor discreto que desperta paixões ocultas.",
+        "notasAromaticas": ["Canela", "Rum", "Patchouli", "Baunilha"],
+        "imagem": "https://example.com/chama.jpg",
+        "preco": 492.00
+      },
+      {
+        "id": "22",
+        "nome": "Devaneio Dourado",
+        "tipo": "noite",
+        "descricao": "Um sonho doce que brilha em tons de ouro.",
+        "notasAromaticas": ["Mel", "Flor de Damasco", "Mimosa", "Sândalo"],
+        "imagem": "https://example.com/devaneio.jpg",
+        "preco": 460.90
+      },
+      {
+        "id": "23",
+        "nome": "Bruma de Algodão",
+        "tipo": "noite",
+        "descricao": "Maciez envolvente como uma nuvem de algodão.",
+        "notasAromaticas": ["Algodão Doce", "Coco", "Baunilha", "Musk"],
+        "imagem": "https://example.com/bruma.jpg",
+        "preco": 345.00
+      },
+      {
+        "id": "24",
+        "nome": "Encanto de Âmbar",
+        "tipo": "noite",
+        "descricao": "Sedutor e quente como um feitiço dourado.",
+        "notasAromaticas": ["Âmbar", "Fava Tonka", "Pimenta", "Rosa"],
+        "imagem": "https://example.com/encanto.jpg",
+        "preco": 487.50
+      },
+      {
+        "id": "25",
+        "nome": "Doce Eclipse",
+        "tipo": "noite",
+        "descricao": "Encontro de luz e sombra em uma dança perfumada.",
+        "notasAromaticas": ["Figo", "Sândalo", "Baunilha", "Almíscar"],
+        "imagem": "https://example.com/doce.jpg",
+        "preco": 375.20
+      },
+      {
+        "id": "26",
+        "nome": "Suspiro de Névoa",
+        "tipo": "noite",
+        "descricao": "Um sopro suave e envolvente que desaparece no ar.",
+        "notasAromaticas": ["Chá Branco", "Peônia", "Musgo", "Musk"],
+        "imagem": "https://example.com/suspiro.jpg",
+        "preco": 359.00
+      },
+      {
+        "id": "27",
+        "nome": "Crepúsculo de Jade",
+        "tipo": "noite",
+        "descricao": "A calmaria verde e misteriosa do entardecer.",
+        "notasAromaticas": ["Folhas Verdes", "Cedro", "Limão", "Almíscar"],
+        "imagem": "https://example.com/crepusculo.jpg",
+        "preco": 399.99
+      },
+      {
+        "id": "28",
+        "nome": "Sombra do Desejo",
+        "tipo": "noite",
+        "descricao": "Intenso, envolvente e quase proibido.",
+        "notasAromaticas": ["Oud", "Canela", "Rosa Vermelha", "Patchouli"],
+        "imagem": "https://example.com/sombra.jpg",
+        "preco": 519.90
+      }    
+    ]
+  }
+  

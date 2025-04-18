@@ -1,0 +1,81 @@
+.container-perfume{
+    display: flex;
+    width: 100%;
+    padding: 20px;
+    /* justify-content: space-around; */
+   
+}
+.noite{
+    background: #4b6cb7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #182848, #4b6cb7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #182848, #4b6cb7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    /* width: 100%; */
+    /* height: 100%; */
+    
+}
+
+.dia{
+    background: #EFEFBB;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #D4D3DD, #EFEFBB);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #D4D3DD, #EFEFBB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    /* width: 100%; */
+    /* height: 100vh; */
+}
+
+.img-perfume{
+    width: 40%;
+}
+img {
+width: 550px;
+height: 450px;
+
+}
+
+
+.infos{
+    width: 50%;
+    height: 300px;
+    color: white;
+    text-align: left;
+    margin-left: 60px;
+
+}
+
+.paragrafo {
+    font-size: 20px;
+    color: white ;
+}
+
+.paragrafo .notas {
+    color:#4b6cb7;
+}
+
+h2 {
+    font-size: 30px;
+
+}
+
+.dados2 {
+    background-color: #182848;
+    border: 1px solid black;
+    height: 50px;
+    width: 80px;
+    text-align: center;
+}
+
+
+button {
+    background-color: #182848;
+    color: white ;
+    border: 1px solid black;
+    height: 60px;
+    width: 110px;
+    text-align: center;
+}
+
+.botao {
+    text-align: right;
+    margin-top: 100px;
+}
+
+

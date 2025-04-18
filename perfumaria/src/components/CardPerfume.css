@@ -1,0 +1,32 @@
+.card-perfume{
+    width: 420px;
+    background-color: rgb(242, 252, 255);
+    padding: 13px;
+    box-shadow: 1px 1px 15px  rgba(0, 0, 0, 0.272);
+    /* border: 2px solid rgb(212, 212, 212); */
+    height: 410px;
+    transition: 0.28s;
+    margin: 40px;
+}
+.card-perfume img{
+    width: 400px;
+}
+.card-perfume:hover{
+    transform: scale(1.1);
+}
+
+
+.card-perfume .infos{
+    margin-top: 25px;
+    color: black;
+    letter-spacing: 4px;
+}
+.card-perfume .infos .nome{
+    font-weight: 500;
+}
+
+.card-perfume .infos .preco{
+    font-weight: 500;
+    margin-top: 20px;
+    color: rgb(65, 65, 65);
+}
